@@ -1,4 +1,4 @@
-# Project Name: Logic Inspect
+# Logic Inspect
 
 ![screenshot](https://github.com/logic-inspect/logic-inspect.github.io/assets/164509556/81e64a38-e41a-4e99-8a4d-e5886c208c10)
 
